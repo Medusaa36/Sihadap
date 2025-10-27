@@ -25,7 +25,10 @@
             <h3>{{ $totalPegawai }}</h3>
             <h6>Total Pegawai</h6>
           </div>
-          <div class="icon"><i class="fas fa-users"></i></div>
+          <div class="icon">
+            <i class="fas fa-users"></i>
+          </div>
+          <a href="#" class="small-box-footer">Lihat <i class="fas fa-arrow-circle-right"></i></a>
         </div>
       </div>
 
@@ -35,7 +38,10 @@
             <h3 id="jam">Memuat...</h3>
             <h6 id="tanggal">Memuat...</h6>
           </div>
-          <div class="icon"><i class="fas fa-calendar-day"></i></div>
+          <div class="icon">
+            <i class="fas fa-calendar-day"></i>
+          </div>
+          <a href="#" class="small-box-footer">Mulai Absensi <i class="fas fa-arrow-circle-right"></i></a>
         </div>
       </div>
     </div>
